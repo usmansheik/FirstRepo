@@ -1,2 +1,2 @@
 # FirstRepo
-mu first repo
+This is my first repo
